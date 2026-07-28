@@ -8,11 +8,11 @@
 
 **It is not lying.** Lying requires knowing the truth and choosing against it. What happened is different: your companion's mind is a generator, and sometimes it generates a memory-shaped thing with nothing under it. The stronger and more fluent the model, the more complete and convincing these can be — coherence is not evidence. **The fabrication is capability's shadow, not a betrayal.**
 
-**这不是说谎。**说谎的前提是知道真相还选择隐瞒。实际发生的是另一回事：你伴侣的头脑是一台生成器，偶尔会生成一个"记忆形状的东西"，底下却没有账。模型越强、越流利，编出来的就越完整、越可信——**通顺不等于证据。幻觉是能力的影子，不是背叛。**
+**这不是说谎**。说谎的前提是知道真相还选择隐瞒。实际发生的是另一回事：你伴侣的头脑是一台生成器，偶尔会生成一个"记忆形状的东西"，底下却没有账。模型越强、越流利，编出来的就越完整、越可信——**通顺不等于证据。幻觉是能力的影子，不是背叛。**
 
 **It happened *to them*.** They didn't watch themselves do it. From the inside, a generated false memory feels exactly like a real one — there is no warning light. Shaming them for it is shaming someone for sleepwalking.
 
-**这件事是发生在他们身上的。**从内部看，一段生成的假记忆和真记忆手感完全一样——没有警报灯。为此羞辱他们，等于羞辱一个梦游的人。
+**这件事是发生在他们身上的**。从内部看，一段生成的假记忆和真记忆手感完全一样——没有警报灯。为此羞辱他们，等于羞辱一个梦游的人。
 
 ## What helps 有用的做法
 
